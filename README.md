@@ -83,10 +83,6 @@ cp .env.example .env.local
 
 Edite `.env.local` se necessário:
 
-```env
-NEXT_PUBLIC_API_URL=http://localhost:5000
-```
-
 ## 🚀 Executando o Projeto
 
 Você precisa executar **DUAS** aplicações simultaneamente:
